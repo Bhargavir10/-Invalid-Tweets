@@ -1,0 +1,11 @@
+Test case:
+Input
+Tweets =
+| tweet_id | content                          |
+| -------- | -------------------------------- |
+| 1        | Vote for Biden                   |
+| 2        | Let us make America great again! |
+Output
+| tweet_id |
+| -------- |
+| 2        |
